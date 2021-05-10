@@ -25,7 +25,8 @@ MARIA DB
 ```
 ### Space Error
 ```
-check /var/lib/mysql/binlog.***
+purge or delete
+/var/lib/mysql/binlog.***
 
 causing huge file of sql schema.
 ```
